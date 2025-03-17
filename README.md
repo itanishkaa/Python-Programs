@@ -14,9 +14,12 @@ This repository includes a variety of Python programs aimed at helping users lea
 
 Programs using the Python Turtle graphics module:
 
-`Ballon_Shooter_Game.py`: A shooting game.    
+`Ballon_Shooter_Game.py`: A shooting game. 
+
 `Chess_Board.py`: Draws a chessboard.    
+
 `Google_logo.py`: Draws the Google logo.
+
 `Windows_logo.py`: Draws the Windows logo.
 
 **2. Telephone Diary**
@@ -36,7 +39,9 @@ A telephone number storage system:
 Contains multiple files for building a Python-based calculator:
 
 `calci.py`: A simple command-line calculator.
+
 `calculator.py`: Standard calculator functionality.
+
 `calculator_gui.py`: GUI-based calculator using Tkinter.
 
 **5. Hangman**
@@ -44,6 +49,7 @@ Contains multiple files for building a Python-based calculator:
 The Hangman game:
 
 `FREQ.txt`: A frequency list for word selection.
+
 `hangman.py`: The Hangman game implementation.
 
 **6. QR Code Generator**
